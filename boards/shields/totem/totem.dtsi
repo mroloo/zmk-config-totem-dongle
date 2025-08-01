@@ -6,6 +6,12 @@
 
 #include <dt-bindings/zmk/matrix_transform.h>
 
+#include "pueo-layout.dtsi"
+
+&pueo_layout {
+    transform = <&default_transform>;
+};
+
 / {
     chosen {
         zmk,kscan = &kscan0;
