@@ -1,4 +1,4 @@
-#import "totem.dtsi"
+#include "totem.dtsi"
 
 &physical_layout0 {
     transform = <&default_transform>;
