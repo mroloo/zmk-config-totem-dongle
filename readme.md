@@ -10,7 +10,7 @@ My personal layout with Colemak DH and some customization for Windows and Linux 
 
 Please note: There could be some discrepancy between layout config and the screenshot as I have done some small tweaks in ZMK Studio.
 
-![My Layout](/docs/images/my_layout.svg)
+![My Layout](/docs/images/my_keymap.svg)
 
 
  
